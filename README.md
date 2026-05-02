@@ -216,10 +216,16 @@ Primary metrics: mAP50 and mAP50-95 (COCO-style box detection). The QAT model ac
 
 
 **Model Protoype**
-![Model Prototype](model prototype.jpeg)
+![Model Prototype](model%20prototype.jpeg)
 
 **Demo on road**
 [Demo video](Demo.mp4)
+
+**Demo in class**
+[Demo in class](demo%20in%20class.mp4)
+
+**Explanation of the project**
+[Explanation of the project](project%20explanation.mp4.mp4)
 ---
 
 ## 9. Conclusions & Limitations
