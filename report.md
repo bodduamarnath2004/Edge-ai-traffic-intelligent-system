@@ -299,6 +299,9 @@ This project successfully demonstrates a fully edge-resident intelligent traffic
 - psutil: https://psutil.readthedocs.io/
 - ONNX: https://onnx.ai/
 
+**Reference paper**
+- https://ieeexplore.ieee.org/document/1699915
+
 
 ## 12. Instructions to Run the code
 - Download the Nicla Vision code and run it using OpenMV software. Make sure to enter the Wi-Fi username and password. The IP address will be displayed in the output screen. Note this IP address and update it in the main.py file on your PC (you will see the Nicla Vision drive). Repeat this process for both Nicla Vision devices.
