@@ -219,7 +219,7 @@ Primary metrics: mAP50 and mAP50-95 (COCO-style box detection). The QAT model ac
 ![Model Prototype](model prototype.jpeg)
 
 **Demo on road**
-![Demo video](Demo.mp4)
+[Demo video](Demo.mp4)
 ---
 
 ## 9. Conclusions & Limitations
@@ -295,9 +295,9 @@ This project successfully demonstrates a fully edge-resident intelligent traffic
 
 
 ## 12. Instructions to Run the code
--Download the Nicla Vision code and run it using OpenMV software. Make sure to enter the Wi-Fi username and password. The IP address will be displayed in the output screen. Note this IP address and update it in the main.py file on your PC (you will see the Nicla Vision drive). Repeat this process for both Nicla Vision devices.
--For the second Nicla Vision, download the Nicla Audio code, run it using OpenMV, and update the main.py file on that device.
--Run the Colab notebook and download the quantized YOLO model from it.
--Download the Raspberry Pi code.py file. Update it with the IP addresses of the two Nicla Vision devices that you noted earlier. Then upload the code and model to the Raspberry Pi using SSH. Ensure that your PC and Raspberry Pi are connected to the same network.
--Install the required packages listed in requirements.txt, and then run the code using:
+- Download the Nicla Vision code and run it using OpenMV software. Make sure to enter the Wi-Fi username and password. The IP address will be displayed in the output screen. Note this IP address and update it in the main.py file on your PC (you will see the Nicla Vision drive). Repeat this process for both Nicla Vision devices.
+- For the second Nicla Vision, download the Nicla Audio code, run it using OpenMV, and update the main.py file on that device.
+- Run the Colab notebook and download the quantized YOLO model from it.
+- Download the Raspberry Pi code.py file. Update it with the IP addresses of the two Nicla Vision devices that you noted earlier. Then upload the code and model to the Raspberry Pi using SSH. Ensure that your PC and Raspberry Pi are connected to the same network.
+- Install the required packages listed in requirements.txt, and then run the code using:
   python "raspberry pi code.py"
