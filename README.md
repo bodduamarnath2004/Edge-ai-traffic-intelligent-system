@@ -310,3 +310,5 @@ This project successfully demonstrates a fully edge-resident intelligent traffic
 - Download the Raspberry Pi code.py file. Update it with the IP addresses of the two Nicla Vision devices that you noted earlier. Then upload the code and model to the Raspberry Pi using SSH. Ensure that your PC and Raspberry Pi are connected to the same network.
 - Install the required packages listed in requirements.txt, and then run the code using:
   python "raspberry pi code.py" and also connect the nicla visions to powerbank or any power source so that nicla vision and raspberry pi connected
+
+**The course website link** - https://www.samy101.com/edge-ai-26/
